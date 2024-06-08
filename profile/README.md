@@ -47,3 +47,4 @@
   - [Lumberjack](https://github.com/natefinch/lumberjack) - 日志切割和管理工具，作为 Zap 的辅助组件。
   - [Gin-Zap](https://github.com/gin-contrib/zap) - Gin 框架与 Zap 的日志集成扩展。
 - [Viper](https://github.com/spf13/viper) - 强大的配置管理库，用于处理应用的配置文件。
+- [DrawDB](https://github.com/drawdb-io/drawdb) - 免费、简单、直观的数据库设计工具和 SQL 生成器。
